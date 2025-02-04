@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\bin\Debug\net8.0\L20250204.exe
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\bin\Debug\net8.0\L20250204.deps.json
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\bin\Debug\net8.0\L20250204.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\bin\Debug\net8.0\L20250204.dll
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\bin\Debug\net8.0\L20250204.pdb
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.sourcelink.json
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.dll
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\refint\L20250204.dll
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.pdb
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\L20250204.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\Practice\Practice\L20250204\obj\Debug\net8.0\ref\L20250204.dll
